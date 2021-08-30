@@ -43,6 +43,22 @@ ul a{
     padding: 10px;
     text-align: center;
 }
-.h{
-    width: 100px;
+.cook h5{
+    font-family: Apple Chancery, cursive;
+    text-align: center;
+    font-size: 10vh;
+    color: #fbc7a1;
+}
+.cook h6{
+    font-size: 4vh;
+    text-align: center;
+    color: #fbc7a1;
+}
+.cook p{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: justify;    
+    margin-right: 10px;
+}
+.cook img {
+    margin-left: 20px;
 }
