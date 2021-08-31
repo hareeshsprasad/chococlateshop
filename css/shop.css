@@ -17,7 +17,7 @@ section{
     padding: 100px 0;
 }
 .navbar{
-    background-color: rgb(92, 76, 76) !important;
+    background-color: rgb(145, 135, 102) !important;
     text-align: left;    
 }
 ul a{
@@ -148,6 +148,9 @@ ul a{
     text-transform: uppercase;
 }
 .msg:hover{
+    background-color: rgb(145, 135, 102);
+}
+.footer{
     background-color: rgb(145, 135, 102);
 }
 
