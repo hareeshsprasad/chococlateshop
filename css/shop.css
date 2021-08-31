@@ -27,6 +27,13 @@ ul a{
     font-size: 15px !important;
     
 }
+.icon{
+    margin: auto !important;
+}
+.logo{
+    margin-left: 10px;
+}
+
 .home{
     display: flex;
     background: url(../images/hom1.jpg) no-repeat center;
@@ -47,12 +54,12 @@ ul a{
     font-family: Apple Chancery, cursive;
     text-align: center;
     font-size: 10vh;
-    color: #fbc7a1;
+    color: rgb(145, 135, 102);
 }
 .cook h6{
     font-size: 4vh;
     text-align: center;
-    color: #fbc7a1;
+    color: rgb(145, 135, 102);
 }
 .cook p{
     font-family: 'Ubuntu', sans-serif;
@@ -62,3 +69,85 @@ ul a{
 .cook img {
     margin-left: 20px;
 }
+.demo video {
+  width: 100%;
+  height: auto; 
+}
+.catering h5{
+    font-family: Apple Chancery, cursive;
+    text-align: center;
+    font-size: 10vh;
+    color: rgb(145, 135, 102);
+}
+.catering h6{
+    font-size: 4vh;
+    text-align: center;
+    color: rgb(145, 135, 102);
+}
+.catering p{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: justify;    
+    margin-left: 40px;
+}
+.catering img{
+    margin-top: 10px;
+}
+.quote{
+    display: flex;
+    background: url(../images/home2.jpg) no-repeat center;
+    height: 100vh;
+    color: #fff;
+    min-height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.quote p{
+    font-family: cursive;
+    font-size: 6vh;
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+.contact h3{
+    text-align: center;
+    font-size: 8vh;
+    font-family: cursive;
+    text-transform: capitalize;
+    color:rgb(145, 135, 102); 
+}
+.contact p{
+    text-align: center;
+    font-size: 2vh;    
+    color:rgb(145, 135, 102); 
+}
+.contact-form{
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.form-control{   
+    border-color: rgb(145, 135, 102); 
+} 
+.form-control:hover{   
+    border-color: rgb(145, 135, 102); 
+} 
+
+.msg.btn-primary {
+    color: #fff;
+    cursor: pointer;
+    background-color: rgb(145, 135, 102);
+    border-color: rgb(145, 135, 102);
+}
+.msg{
+    width: 200px;
+    height: 50px;      
+    font-size: 15px;
+    letter-spacing: .2rem;
+    text-transform: uppercase;
+}
+.msg:hover{
+    background-color: rgb(145, 135, 102);
+}
+
